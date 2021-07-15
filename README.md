@@ -1,5 +1,5 @@
 # MS629 (non-linear programming) -Minimization-Unrestricted-
-Course design MS629 (non-linear programming), implementation and analysis of the results of the classical methods, Gradiente, Newton Globalizado and Secante Globalizado of the nonlinear programming.
+Course project MS629 (non-linear programming), implementation and analysis of the results of the classical methods, Gradiente, Newton Globalizado and Secante Globalizado of the nonlinear programming.
 
 In this project we carry out the implementations of the Gradiente, Newton Globalizado and Secante Globalizado methods, in order to verify their as they behave to the aplicalos in the following
 functions: Quadratic, Styblinsky-tang, Rosenbrook, Rastring. The analysis was done comparing the performance of the methods for different values of epsilon precision (minimum tolerance
