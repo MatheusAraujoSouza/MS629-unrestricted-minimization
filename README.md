@@ -11,5 +11,12 @@ stop criterion) and the starting points x0.
   
  See more in : https://github.com/MatheusAraujoSouza/MS629-Minimiza-o-Irrestrita--unrestricted-minimization/blob/main/projeto629_21112020.pdf
   
+
+## credits:
+
+report: Bruno Trevisan.
+
+code: Matheus Araujo Souza. 
+  
   
  
